@@ -1,84 +1,127 @@
 # Privacy Policy for HAYes
 
-**Last updated: September 1, 2026**
+**Last updated: September 2, 2026**
 
-HAYes ("we", "our", or "the app") is an Armenian word puzzle game. We respect your privacy and aim to collect only the information necessary to understand app usage, maintain app stability, and improve the HAYes experience.
+HAYes (“HAYes”, “we”, “our”, or “the app”) is an Armenian word game developed by Lusine Karapetyan. We respect your privacy and aim to collect only the information reasonably necessary to understand app usage, maintain app stability, provide app functionality, and improve the HAYes experience.
 
 ## 1. Information We Collect
 
-HAYes does not require users to create an account and does not directly collect personal information such as your name, email address, phone number, physical address, contacts, photos, financial information, or precise location.
+HAYes does not require users to create an account.
 
-The app may collect limited technical and usage information through services used for analytics and app stability, including:
+HAYes does not directly request or collect information such as your name, email address, phone number, physical address, contacts, photos, financial information, or precise location as part of normal gameplay.
 
-- Device identifiers used for analytics
-- Product interaction and app usage information, such as interactions with features and gameplay
-- Crash and diagnostic information used to identify and fix technical problems
+The app may automatically collect limited technical, diagnostic, and usage information through the services described in this policy, including:
 
-This information is not used by HAYes to identify you personally.
+- Device or installation identifiers used for analytics, diagnostics, and app functionality;
+- Product interaction and app usage information, such as interactions with features and gameplay;
+- Crash reports, diagnostic information, and technical information used to identify and fix problems.
 
-## 2. Analytics
+HAYes does not use this information to determine your real-world identity.
 
-HAYes uses Firebase Analytics to help us understand how the app is used and to improve the user experience.
+## 2. How We Use Information
 
-Analytics information may include interactions with the app, use of features, and technical device information.
+We use the information described above to:
 
-We use this information for analytics and product improvement purposes.
+- Understand how HAYes is used;
+- Measure interactions with app features;
+- Improve gameplay and the user experience;
+- Diagnose crashes and technical problems;
+- Maintain app reliability, security, and performance;
+- Develop and improve HAYes features.
 
-## 3. Crash Reporting
+We do not sell personal information.
 
-HAYes uses Firebase Crashlytics to collect crash and diagnostic information.
+## 3. Analytics
 
-This information is used to detect crashes, diagnose technical problems, improve app stability, and maintain app functionality.
+HAYes uses Google Firebase services, including Firebase Analytics, to understand how users interact with the app.
 
-## 4. Tracking and Advertising
+Analytics information may include app interactions, gameplay or feature events, technical device information, and device or installation identifiers.
 
-HAYes does not use the information described in this policy for cross-app or cross-website tracking.
+We use this information for analytics, product development, and improvement of the HAYes experience.
 
-HAYes does not use third-party advertising networks to display targeted advertising based on user activity across other companies' apps or websites.
+## 4. Crash Reporting
 
-## 5. Data Linked to Your Identity
+HAYes uses Firebase Crashlytics to help identify, diagnose, and resolve crashes and technical problems.
 
-HAYes does not require an account or login.
+Crashlytics may process crash reports, diagnostic information, technical device information, and installation identifiers.
 
-The data described above is not used by HAYes to identify you personally or linked by HAYes to your name, email address, or other directly identifying account information.
+This information is used to improve app stability and maintain app functionality.
 
-## 6. Third-Party Services
+## 5. Tracking and Advertising
+
+HAYes does not use the information described in this policy to track users across apps or websites owned by other companies for advertising purposes.
+
+HAYes does not currently use third-party advertising networks to provide targeted advertising based on activity across other companies’ apps or websites.
+
+If our advertising or tracking practices change in the future, this Privacy Policy and the applicable app-store privacy disclosures will be updated as required.
+
+## 6. Data Linked to Your Identity
+
+HAYes does not currently require an account or login for normal gameplay.
+
+We do not intentionally associate analytics, diagnostic, or gameplay information with your name, email address, or another directly identifying HAYes account.
+
+Technical services used by HAYes may use device or installation identifiers to provide analytics, diagnostics, security, or related functionality.
+
+## 7. Third-Party Services
 
 HAYes uses services provided by Google Firebase, including Firebase Analytics and Firebase Crashlytics.
 
-These services may process technical, analytics, and diagnostic information in accordance with their applicable privacy and data protection practices.
+These third-party services may process technical, analytics, diagnostic, device, and installation information in accordance with their applicable terms and privacy practices.
 
-## 7. Children's Privacy
+We expect third-party service providers processing information on behalf of HAYes to handle that information in accordance with applicable privacy and data-protection requirements.
 
-HAYes is a general-audience word puzzle game and does not knowingly collect personal information directly from children.
+## 8. Children’s Privacy
 
-If we become aware that personal information from a child has been collected contrary to applicable law, we will take appropriate steps to address it.
+HAYes is a general-audience Armenian word game and is not designed to require children to provide personal information.
 
-## 8. Data Security
+HAYes does not knowingly request personal information directly from children through an account or registration process.
 
-We take reasonable measures designed to protect information processed in connection with HAYes against unauthorized access, alteration, disclosure, or destruction.
+If we become aware that personal information from a child has been collected in a manner inconsistent with applicable law, we will take appropriate steps to address the situation, including deletion where required.
 
-## 9. Data Retention
+## 9. Data Security
 
-Technical, analytics, and diagnostic information is retained only as necessary for the purposes described in this policy and in accordance with the applicable settings and retention practices of the services we use.
+We use reasonable administrative and technical measures designed to protect information processed in connection with HAYes from unauthorized access, alteration, disclosure, loss, or destruction.
 
-## 10. Your Privacy Rights
+However, no method of electronic transmission or storage can be guaranteed to be completely secure.
 
-Depending on where you live, applicable law may provide you with rights regarding your personal data.
+## 10. Data Retention and Deletion
 
-You may contact us with privacy-related questions or requests using the contact information below.
+Analytics, technical, and diagnostic information is retained only for as long as reasonably necessary for the purposes described in this Privacy Policy and subject to the retention settings and practices of the services used by HAYes.
 
-Because HAYes does not currently provide user accounts, some information may not be reasonably identifiable as belonging to a particular individual.
+Different Firebase services may apply different retention periods to technical and diagnostic information.
 
-## 11. Changes to This Privacy Policy
+Because HAYes does not currently provide user accounts, HAYes may not always be able to associate automatically generated analytics or diagnostic information with a specific individual.
 
-We may update this Privacy Policy when HAYes features, technologies, or legal requirements change.
+You may nevertheless contact us to ask questions about retention or request deletion of information that can reasonably be identified and deleted in accordance with applicable law and the capabilities of the services we use.
 
-When we make changes, the updated version will be published on this page and the "Last updated" date will be revised.
+## 11. Your Privacy Choices and Rights
 
-## 12. Contact Us
+Depending on where you live, applicable privacy law may provide rights concerning your personal data, which may include rights to request access, correction, deletion, restriction, or other appropriate action.
 
-For questions about this Privacy Policy or privacy practices relating to HAYes, please contact:
+You may also contact us if you wish to withdraw a previously provided consent where applicable.
+
+To submit a privacy request, contact us using the email address below and describe your request.
+
+Because HAYes does not currently require accounts and some information is associated only with technical or installation identifiers, we may not always be able to identify particular analytics or diagnostic information as belonging to a specific individual.
+
+## 12. International Processing
+
+The third-party technology services used by HAYes may process information on servers located outside your country or region.
+
+Where applicable, such processing is subject to the privacy and data-protection practices and safeguards of the relevant service provider and applicable law.
+
+## 13. Changes to This Privacy Policy
+
+We may update this Privacy Policy when HAYes features, technologies, third-party services, privacy practices, or legal requirements change.
+
+When we make changes, the revised Privacy Policy will be published on this page and the “Last updated” date above will be updated.
+
+Material changes will be communicated through appropriate means when required by applicable law.
+
+## 14. Contact Us
+
+For questions about this Privacy Policy, HAYes privacy practices, or requests concerning your data, please contact:
 
 **HAYes**  
 Developer: Lusine Karapetyan  
